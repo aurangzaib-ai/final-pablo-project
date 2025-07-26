@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pdf2image
+pytesseract
+reportlab
+requests
+Pillow
